@@ -5,7 +5,7 @@ O Knime (o K é silencioso, por isso é pronunciado nīm) é uma plataforma de a
 **Neste repositorio estão os materias que desenvolvi para estudo apartir do material oficial da ferramenta. 
 Todo conteúdo e propriedade intelectual está referenciado.**
 
-[Linkedin: Hugo Kenzo Ogata](https://www.linkedin.com/in/hugo-kenzo-ogata-72888896/)
+Linkedin: [Hugo Kenzo Ogata](https://www.linkedin.com/in/hugo-kenzo-ogata-72888896/)
 ***
 
 * Boas iniciativas merecem aplausos :clap:
